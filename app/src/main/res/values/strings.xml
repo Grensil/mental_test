@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android1</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_title">당신의 사랑타입을<br/>
+        알아봅시다! </string>
+    <string name="question">여기 꽃병에 당신이 좋아하는\n 꽃이 들어있습니다.\n시간이 흘러 시들었다면 \n어떻게 하시겠습니까?</string>
+
+</resources>
